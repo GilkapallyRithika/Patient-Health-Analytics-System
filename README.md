@@ -42,3 +42,13 @@ Patient-Health-Analytics-System/
 ├── statistics_module.py
 ├── user_interface_module.py
 └── README.md
+
+How to Run
+1. Clone the repository
+git clone https://github.com/GilkapallyRithika/Patient-Health-Analytics-System.git
+2. Open the project folder
+cd Patient-Health-Analytics-System
+3. Install the required libraries
+pip install pandas numpy
+4. Run the application
+python main.py
